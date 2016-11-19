@@ -1,0 +1,9 @@
+{
+	"name":"Gmaps_BusUNIVO",
+	"version": "1.0.0",
+	"description":"Geolocalizacion para bus univo",
+	"dependencies":{
+		"express":"^4.13.4",
+		"socket.io":"^1.4.5"
+	}
+}
